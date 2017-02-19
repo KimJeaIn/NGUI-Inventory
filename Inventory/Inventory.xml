@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <Inventory>
+    <Field equip="0" sell_cost="100" buy_cost="200" icon="cake" name="Cake" id="1"/>
+    <Field equip="0" sell_cost="50" buy_cost="100" icon="cookie" name="Cookie" id="2"/>
+    <Field equip="0" sell_cost="250" buy_cost="500" icon="cupcake" name="Cupcake" id="3"/>
+    <Field equip="3" sell_cost="1000" buy_cost="2000" icon="shield" name="MageShield" id="4"/>
+    <Field equip="3" sell_cost="500" buy_cost="1000" icon="shield_2" name="Shield" id="5"/>
+    <Field equip="1" sell_cost="750" buy_cost="1500" icon="helmet" name="Helmet" id="6"/>
+    <Field equip="2" sell_cost="1000" buy_cost="2000" icon="sword" name="LongSword" id="7"/>
+    <Field equip="2" sell_cost="1250" buy_cost="2500" icon="Weapon_16" name="Staff" id="8"/>
+    <Field equip="1" sell_cost="750" buy_cost="1500" icon="helmets" name="MageHat" id="9"/>
+  </Inventory>
+  <Equip>
+    <Field equipid="4" atk="0" def="10" int="5"/>
+    <Field equipid="5" atk="0" def="20" int="0"/>
+    <Field equipid="6" atk="0" def="15" int="0"/>
+    <Field equipid="7" atk="25" def="0" int="0"/>
+    <Field equipid="8" atk="5" def="0" int="30"/>
+    <Field equipid="9" atk="0" def="5" int="20"/>
+  </Equip>
+</Item>
